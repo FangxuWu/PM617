@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+ul,li,h1,h2,h3,p{ padding:0; margin:0; list-style:none}
+img{ max-width:100%}
+html{ background:#999 }
+body{ width:1000px; margin:0px auto;background:#1fa6e4; color:#7c6946; line-height:21px}
+.clear{ clear:both}
+.menu li{ list-style:none; color:#000000}
+
+.menu{ width:100%; text-align:center;}
+.menu li a{ color:#fff}
+.menu li { margin-top:8px;background:#fff; padding:15px 0px ; width:100%}
+
+.right{ float:right; min-height:1000px; width:750px; background:#fff}
+.left{ min-height:300px;  float:left; width:250px;}
+.content { padding-bottom:20px; font-size:14px; line-height:26px; display:inline-block ; color:#7c6946; width:100%}
+
+.logo{ margin:45px}
+.logo img{ width:140px; border:#fff solid 5px;}
+.left h1{ color:#fff; text-align:center; padding-bottom:30px}
+.end{ clear:both; background:#bfa060; color:#fff; padding:30px 0; text-align:center;}
+.pad{ padding:20px; display:block}
+.pics p{ margin:1px; text-align:center}
+
+.msg{ color:#fff; padding:30px}
+.msg p{ margin:10px 0}
+
+.title{ text-align:center; color:#F00; padding:10px}
+.fl{ float:left}
+
+.js div img{ float:left; margin-right:20px} 
+
+.bar{ border-bottom:#000 solid 1px; margin:10px ; clear:both; font-weight:bold; padding:15px}
